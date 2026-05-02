@@ -1,0 +1,8 @@
+name: NetheriteTracker
+version: 1.0
+main: org.example.netheritetracker.NetheriteTracker
+api-version: 1.21
+commands:
+  nethcheck:
+    description: Check netherite mining stats
+    usage: /nethcheck
